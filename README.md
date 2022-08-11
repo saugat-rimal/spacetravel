@@ -1,6 +1,6 @@
-# Space Travel  – Learn more about space
+# Cosmos Tourism  – Learn more about space
 
-Made a website called space tarvel as a challange from frontend mentor. It was fun making it.
+Made a website called Cosmos Tourism as a challange from frontend mentor. It was fun making it.
 
 Visit The Website: [Space Travel](https://cosmos-tourism.vercel.app/)
 
