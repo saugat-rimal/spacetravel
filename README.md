@@ -2,7 +2,7 @@
 
 Made a website called space tarvel as a challange from frontend mentor. It was fun making it.
 
-Visit The Website: [Space Travel](https://chrome.google.com/webstore/detail/drop-tab-%E2%80%93-best-bookmark/peogendaipoplnglfflehjgnbkpfpmkj/)
+Visit The Website: [Space Travel](https://cosmos-tourism.vercel.app/)
 
 
 ## Table of contents
@@ -28,8 +28,8 @@ Visit The Website: [Space Travel](https://chrome.google.com/webstore/detail/drop
 
 ### Links
 
-- Solution URL: [Github Code](https://github.com/saugat-rimal/droptab/)
-- Live Site URL: [Live site ](https://saugat-rimal.github.io/droptab/)
+- Solution URL: [Github Code](https://github.com/saugat-rimal/spacetravel)
+- Live Site URL: [Live site ](https://cosmos-tourism.vercel.app/)
 
 ## My process
 
