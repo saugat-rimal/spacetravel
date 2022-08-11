@@ -1,4 +1,4 @@
-# Space Travel  – Learn more about space
+# Cosmos Tourism  – Learn more about space
 
 Made a website called space tarvel as a challange from frontend mentor. It was fun making it.
 
