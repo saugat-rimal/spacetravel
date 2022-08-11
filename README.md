@@ -1,28 +1,54 @@
-# co39e483d95e01a3e28fa5475
+# Space Travel  – Learn more about space
 
-Quick start:
+Made a website called space tarvel as a challange from frontend mentor. It was fun making it.
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+Visit The Website: [Space Travel](https://chrome.google.com/webstore/detail/drop-tab-%E2%80%93-best-bookmark/peogendaipoplnglfflehjgnbkpfpmkj/)
 
-## Development
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
+## Table of contents
 
-```
-$ yarn watch # npm run watch
-```
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-## About Scrimba
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Overview
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
-Happy Coding!
+### Screenshot
+
+![image](https://user-images.githubusercontent.com/86593756/184087792-a7414599-2dc5-4ddb-b418-2d6b788dfff7.png)
+
+
+![image](https://user-images.githubusercontent.com/86593756/184087703-c6e7b6db-2567-48e2-a4c3-7d968c5f278b.png)
+
+
+### Links
+
+- Solution URL: [Github Code](https://github.com/saugat-rimal/droptab/)
+- Live Site URL: [Live site ](https://saugat-rimal.github.io/droptab/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- CSS Flex
+- CSS Grid
+- Vanilla JavaScript
+
+
+
+## Author
+
+- Website - [Saugat Rimal](https://saugatrimal.com.np)
+- Facebook - [Saugat Rimal](https://www.facebook.com/saugatrimal.pro)
+- LinkedIn - [Saugat Rimal](https://www.linkedin.com/in/saugatrimal/)
+- Instagram - [Saugat Rimal](https://www.instagram.com/saugatrimal60/)
+
+
+
